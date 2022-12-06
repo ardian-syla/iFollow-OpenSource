@@ -144,7 +144,7 @@ namespace iFollow
                     AutoClosingMessageBox.Show("Something went wrong please try again", "iFollow", 4000);
                 }
             }
-
+            // Because im cool lol
             static void MainFollow(string sessionID)
             {
 
