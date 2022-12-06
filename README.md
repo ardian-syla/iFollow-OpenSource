@@ -1,5 +1,5 @@
 # iFollow Source Code
-iFollow c# GUI with code. 
+iFollow c# GUI with Source Code. 
 you can modify it as you want <3
 
 # Author
