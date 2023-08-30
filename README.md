@@ -12,8 +12,8 @@ This is just a part of code that happen's to follow a user on instagram from csh
 
 # This repository is not maintainted anymore
 
-``` for more contact tele
-@ardiyoo
+```
+for more contact tele @ardiyoo <3
 ```
 
 ```csharp
