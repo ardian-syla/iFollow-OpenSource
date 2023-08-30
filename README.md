@@ -10,7 +10,7 @@ MADE WITH HEART BY ArdianS :)
 This is just a part of code that happen's to follow a user on instagram from csharp
 ```
 
-#This repository is not maintainted anymore
+# This repository is not maintainted anymore
 
 ``` for more contact tele
 @ardiyoo
